@@ -1,0 +1,297 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4489FDCD1DB0271A0063E7D9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDCC1DB0271A0063E7D9 /* main.swift */; };
+		4489FDD61DB029F90063E7D9 /* io.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDD51DB029F90063E7D9 /* io.swift */; };
+		4489FDD81DB03A900063E7D9 /* zoo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDD71DB03A900063E7D9 /* zoo.swift */; };
+		4489FDDA1DB0459F0063E7D9 /* people.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDD91DB0459F0063E7D9 /* people.swift */; };
+		4489FDDC1DB095770063E7D9 /* zooInteractive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDDB1DB095770063E7D9 /* zooInteractive.swift */; };
+		4489FDDE1DB09F1A0063E7D9 /* employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDDD1DB09F1A0063E7D9 /* employee.swift */; };
+		4489FDE01DB122C20063E7D9 /* guest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDDF1DB122C20063E7D9 /* guest.swift */; };
+		4489FDF71DB135C90063E7D9 /* animals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDF61DB135C90063E7D9 /* animals.swift */; };
+		4489FDF91DB13DDC0063E7D9 /* birds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDF81DB13DDC0063E7D9 /* birds.swift */; };
+		4489FDFB1DB147630063E7D9 /* fish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDFA1DB147630063E7D9 /* fish.swift */; };
+		4489FDFD1DB14F080063E7D9 /* snake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4489FDFC1DB14F070063E7D9 /* snake.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		4489FDC71DB0271A0063E7D9 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		4489FDC91DB0271A0063E7D9 /* zoolabweek2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = zoolabweek2; sourceTree = BUILT_PRODUCTS_DIR; };
+		4489FDCC1DB0271A0063E7D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		4489FDD51DB029F90063E7D9 /* io.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = io.swift; sourceTree = "<group>"; };
+		4489FDD71DB03A900063E7D9 /* zoo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = zoo.swift; sourceTree = "<group>"; };
+		4489FDD91DB0459F0063E7D9 /* people.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = people.swift; sourceTree = "<group>"; };
+		4489FDDB1DB095770063E7D9 /* zooInteractive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = zooInteractive.swift; sourceTree = "<group>"; };
+		4489FDDD1DB09F1A0063E7D9 /* employee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = employee.swift; sourceTree = "<group>"; };
+		4489FDDF1DB122C20063E7D9 /* guest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = guest.swift; sourceTree = "<group>"; };
+		4489FDF61DB135C90063E7D9 /* animals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = animals.swift; sourceTree = "<group>"; };
+		4489FDF81DB13DDC0063E7D9 /* birds.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = birds.swift; sourceTree = "<group>"; };
+		4489FDFA1DB147630063E7D9 /* fish.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fish.swift; sourceTree = "<group>"; };
+		4489FDFC1DB14F070063E7D9 /* snake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = snake.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4489FDC61DB0271A0063E7D9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4489FDC01DB0271A0063E7D9 = {
+			isa = PBXGroup;
+			children = (
+				4489FDCB1DB0271A0063E7D9 /* zoolabweek2 */,
+				4489FDCA1DB0271A0063E7D9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4489FDCA1DB0271A0063E7D9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4489FDC91DB0271A0063E7D9 /* zoolabweek2 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4489FDCB1DB0271A0063E7D9 /* zoolabweek2 */ = {
+			isa = PBXGroup;
+			children = (
+				4489FDCC1DB0271A0063E7D9 /* main.swift */,
+				4489FDD91DB0459F0063E7D9 /* people.swift */,
+				4489FDD51DB029F90063E7D9 /* io.swift */,
+				4489FDD71DB03A900063E7D9 /* zoo.swift */,
+				4489FDDB1DB095770063E7D9 /* zooInteractive.swift */,
+				4489FDDD1DB09F1A0063E7D9 /* employee.swift */,
+				4489FDDF1DB122C20063E7D9 /* guest.swift */,
+				4489FDF61DB135C90063E7D9 /* animals.swift */,
+				4489FDF81DB13DDC0063E7D9 /* birds.swift */,
+				4489FDFA1DB147630063E7D9 /* fish.swift */,
+				4489FDFC1DB14F070063E7D9 /* snake.swift */,
+			);
+			path = zoolabweek2;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4489FDC81DB0271A0063E7D9 /* zoolabweek2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4489FDD01DB0271A0063E7D9 /* Build configuration list for PBXNativeTarget "zoolabweek2" */;
+			buildPhases = (
+				4489FDC51DB0271A0063E7D9 /* Sources */,
+				4489FDC61DB0271A0063E7D9 /* Frameworks */,
+				4489FDC71DB0271A0063E7D9 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = zoolabweek2;
+			productName = zoolabweek2;
+			productReference = 4489FDC91DB0271A0063E7D9 /* zoolabweek2 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4489FDC11DB0271A0063E7D9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Chad Trador";
+				TargetAttributes = {
+					4489FDC81DB0271A0063E7D9 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 4489FDC41DB0271A0063E7D9 /* Build configuration list for PBXProject "zoolabweek2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4489FDC01DB0271A0063E7D9;
+			productRefGroup = 4489FDCA1DB0271A0063E7D9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4489FDC81DB0271A0063E7D9 /* zoolabweek2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4489FDC51DB0271A0063E7D9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4489FDDA1DB0459F0063E7D9 /* people.swift in Sources */,
+				4489FDFB1DB147630063E7D9 /* fish.swift in Sources */,
+				4489FDD81DB03A900063E7D9 /* zoo.swift in Sources */,
+				4489FDFD1DB14F080063E7D9 /* snake.swift in Sources */,
+				4489FDD61DB029F90063E7D9 /* io.swift in Sources */,
+				4489FDE01DB122C20063E7D9 /* guest.swift in Sources */,
+				4489FDDE1DB09F1A0063E7D9 /* employee.swift in Sources */,
+				4489FDF91DB13DDC0063E7D9 /* birds.swift in Sources */,
+				4489FDF71DB135C90063E7D9 /* animals.swift in Sources */,
+				4489FDCD1DB0271A0063E7D9 /* main.swift in Sources */,
+				4489FDDC1DB095770063E7D9 /* zooInteractive.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		4489FDCE1DB0271A0063E7D9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4489FDCF1DB0271A0063E7D9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		4489FDD11DB0271A0063E7D9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4489FDD21DB0271A0063E7D9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4489FDC41DB0271A0063E7D9 /* Build configuration list for PBXProject "zoolabweek2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4489FDCE1DB0271A0063E7D9 /* Debug */,
+				4489FDCF1DB0271A0063E7D9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4489FDD01DB0271A0063E7D9 /* Build configuration list for PBXNativeTarget "zoolabweek2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4489FDD11DB0271A0063E7D9 /* Debug */,
+				4489FDD21DB0271A0063E7D9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4489FDC11DB0271A0063E7D9 /* Project object */;
+}
